@@ -1,0 +1,1 @@
+print("Isso foi um teste amigo")
